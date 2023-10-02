@@ -393,6 +393,9 @@ display: flex;
     .section-1,.section-2{
       display: none;
     }
+    .hello{
+        display: none;
+    }
     .social-icon{
         flex-direction: column;
       width: 30px;
