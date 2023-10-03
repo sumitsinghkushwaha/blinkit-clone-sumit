@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
-/* @import url('./variable.css'); */
 
 *{
     margin: 0;
@@ -38,11 +37,6 @@ header .container{
 .location .location-desc{
     font-size: 11px;
 }
-
-/* .location-desc .fa-sort-down{
-    transform: translateY(-2px);
-    padding-left: 5px;
-} */
 
 .search-bar{
     width: 52%;
@@ -269,7 +263,7 @@ display: flex;
     margin-bottom: 0px;
     padding: 0px;
     align-items: center;
-    /* margin: auto; */
+    
     width: 50%;
   }
   .btn-1 {
@@ -296,17 +290,12 @@ display: flex;
   .social-icon img{
     border-radius: 50%;
   }
-  /* .container-1 {
-    padding: 20px;
-    width: 95%;
-    justify-content: center;
-  } */
+
   .section-1{
     width: 40%;
     padding: 15px;
     display: flex;
     flex-direction: column;
-    /* margin:14px; */
   }
   .section-2 {
     width: 70%;
@@ -337,18 +326,11 @@ display: flex;
     display: flex;
     padding-left: 35px;
     padding-right: 35px;
-    /* color: #787878; */
     justify-content: center;
-    /* padding: 28px; */
-    /* margin: 20px; */
-    /* position: relative; */
-    /* top: 85px; */
     background-color:transparent;
     font-size: 14px;
     color: rgb(102, 102, 102);
-    /* font-family: OKRA-REGULAR; */
-    /* line-height: 18px; */
-    /* margin: 12px; */
+    
 }
 
 @media screen and (max-width: 850px) {
